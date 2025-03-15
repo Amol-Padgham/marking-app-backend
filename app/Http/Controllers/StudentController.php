@@ -86,4 +86,6 @@ class StudentController extends Controller
 
         return response()->json(['message' => 'Student deleted successfully']);
     }
+
+    
 }
